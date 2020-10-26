@@ -1,0 +1,74 @@
+Microsoft visited our campus to hire pre-final year students for the Software Engineering Intern role.
+
+    Around 270 students appeared for the online test.
+
+Online Test: 90 mins
+
+Conducted on https://tests.mettl.com/ and contains 3 coding questions with different difficulty levels – Basic, Easy, and Medium and carrying marks accordingly.  
+
+    Given 2 decimal numbers, x and y compute the division x/y  and round it off up to 3 decimal places. Similar question- https://www.geeksforgeeks.org/program-compute-division-upto-n-decimal-places/ 
+    Given a string, print the length of the longest palindromic substring. https://www.geeksforgeeks.org/longest-palindrome-substring-set-1/  
+    There are n people standing in a queue to buy something. Two arrays were given – Waiting time i.e. how much time anyone would wait for his/her turn to come and time spent to get their stuff from the shopkeeper. You have to help the shopkeeper to cover as many people as possible and output the same.
+
+Those who had solved at least 2 questions were selected for the next round. I was able to solve all of them and around 90 students were selected for the next round.  
+
+Group fly round: 45 mins
+
+
+It was a pen and paper-based round. 2 questions were given, and we have to solve them efficiently and specify our approach clearly.
+
+    Given a binary tree write a function to connect all the adjacent nodes at the same level.  https://www.geeksforgeeks.org/connect-nodes-at-same-level/
+    Given the arrival and departure times of all trains that reach a railway station, the task is to find the minimum number of platforms required for the railway station so that no train waits. We are given two arrays that represent arrival and departure times of trains that stop.   https://www.geeksforgeeks.org/minimum-number-platforms-required-railwaybus-station/  
+
+Those who had solved both the problems efficiently and able to explain their ideas clearly were shortlisted for further rounds. 24 students selected for the interviews.  
+
+Technical Interview 1: 40-45 mins
+
+The interview started with a brief introduction about myself, the interviewer told me to continue for straight 5 mins  (I only prepared for 2-3 mins so I started telling about what I have done in the college… So be prepared for it 🙂 )
+
+Then he moved on to the previous round question (2nd que of the group fly around). He had my solution and told me to validate my code for different test cases. The interviewer was trying to prove that my approach is incorrect by adding new edge cases every time but in the end, he was satisfied with the approach. He also asked about the implementation of Min-Heap since I have used it in my code. 
+
+This discussion went around 30- 35 mins then he asked me about the different technologies that I have worked upon and a little discussion about them. In the end, I asked him a few questions about Microsoft life and the culture of Microsoft.
+
+Technical Interview 2: 50-60 mins
+
+The interviewer was very cool, he was looking at my resume and I have written web series and cricket in the hobbies section, so he asked a few ques-
+
+
+    Can you name all the web series that you’ve watched? (He asked a few character’s names from GOT maybe he was just checking that I’ve watched it or not)
+    Fav player in cricket and why?
+    What do I do bowling or batting?
+
+He told me since I have to manage lectures, labs, assignments, web series, cricket, and many other things so let’s do the job scheduling problem. ( https://www.geeksforgeeks.org/weighted-job-scheduling/ ). I took some time and came up with a recursive approach. He pointed out some edge cases that I was missing and asked me to correct them and I did so. Now he asked if I can use DP to further optimize this solution. I tried but not getting the correct approach then I asked him for help and finally, after 2 tries I was able to write it, and he seems satisfied as well.  
+
+What is a Binary tree?
+
+What is a binary search tree?
+
+Can you write a function to check whether a given tree is a BST or not? https://www.geeksforgeeks.org/a-program-to-check-if-a-binary-tree-is-bst-or-not/  
+
+I’ve seen this question before but I took some time to think as if this is the first time this question came to me 😉 then told him 2 approaches first the less efficient one then the more efficient one and he told me to code the more efficient one.  
+
+He asked many questions, I asked a few-
+
+    Areas of improvement.
+    Technologies that I/everybody should know.
+    About work-life balance at Microsoft.
+
+   
+
+HR cum Technical Interview 3: 40-45 mins
+
+The interviewer asked, What is the name of your previous interviewers? I only remember the 2nd interviewer’s name since the 1st one didn’t tell me his name and I didn’t ask. She said You should have asked his name. (I made sure that I’ll ask her name in the end) then some quick questions-
+
+    Fav Data structure and why do you think this is your fav?
+    What is an abstraction in java?
+    Draw the class structure of an ATM.
+    Write the methods that you have used in the class structure of the ATM machine.
+    Write some strings. (Yeah you read it correctly!!!) I don’t know what kind of ques is this but I wrote some uppercase string, lowercase string, and a string with the value “String”.
+
+2 easy coding questions-  
+
+
+    Given an array of integers, find the first repeating element in it. https://www.geeksforgeeks.org/find-first-repeating-element-array-integers/  I solved this with 2 approaches first sorting then she asked to minimize the time complexity then used Hashing.
+    Reverse the words in a given string. https://www.geeksforgeeks.org/reverse-words-in-a-given-string/  Again an easy one, First reverse each word one by one then reverse the whole string.
